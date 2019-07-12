@@ -1,0 +1,37 @@
+CODE SETTINGS SYNC UPLOAD SUMMARY
+Version: 3.3.1
+--------------------
+GitHub Token: d672ce4ee2b295bb289b30a363f34ec14d9aaa9e
+GitHub Gist: 75ea9a403cb1a220ec20f47e11c2af38
+GitHub Gist Type: Secret
+
+Restarting Visual Studio Code may be required to apply color and file icon theme.
+--------------------
+Files Uploaded:
+  extensions.json > extensions.json
+  settings.json > settings.json
+
+Extensions Ignored:
+  No extensions ignored.
+
+Extensions Removed:
+  No extensions removed.
+
+Extensions Added:
+  beautify v1.5.0
+  better-comments v2.0.5
+  cobol v5.1.11
+  cobol-plus-pack v0.4.0
+  cobolstf v1.5.3
+  code-settings-sync v3.3.1
+  enterprise-cobol-for-z-os v0.0.1
+  gixdeco-comments v1.0.4
+  mvon v1.94.0
+  partial-diff v1.4.0
+  prettier-vscode v1.9.0
+  rech-editor-cobol v1.0.23
+  vscode-diff v1.4.0
+  vscode-xml v0.7.0
+  xml v2.5.0
+--------------------
+Done.
